@@ -65,7 +65,7 @@ Default: unlimited.
 ```
     SERVER_PORT=443
     SERVER_ADDR=0.0.0.0
-    STUN_URL=stun.l.google.com:19302
+    STUN_URL=stun:stun.l.google.com:19302
     CERT_FILE=certs/certfile.pem
     KEY_FILE=certs/keyfile.pem
     EXTERNAL_IP=1.2.3.4
