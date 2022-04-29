@@ -8,6 +8,12 @@ It can be configured with a STUN server (`STUN_URL`) or directly with an externa
 
 In order to support Cross-Origin Source requests, it's possible to define a list of allowed origins inside `ALLOWED_ORIGINS`.
 
+
+You can find the latest docker image at:
+
+`ghcr.io/subspace-com/subspace_webrtc_echoserver:latest`
+
+
 ## Environment variables
 
 ### SERVER_PORT
